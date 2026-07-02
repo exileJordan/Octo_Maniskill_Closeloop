@@ -169,12 +169,12 @@ The offline evaluation results of the finetuned Octo model on ManiSkill PickCube
 PickCube Results
 
 <p align="center">
-  <img src="docs/assets/pickcube.png" alt="PickCube Results" width="650">
+  <img src="docs/assets/pickcube.jpg" alt="PickCube Results" width="650">
 </p>
 
 PushCube Results
 <p align="center">
-  <img src="docs/assets/pushcube.png" alt="PushCube Results" width="650">
+  <img src="docs/assets/pushcube.jpg" alt="PushCube Results" width="650">
 </p>
 
 ### Limitations
